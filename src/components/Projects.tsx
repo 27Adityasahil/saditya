@@ -27,7 +27,7 @@ const Projects: React.FC = () => {
       image: portfolioImg,
       tags: ["HTML", "CSS", "JavaScript", "Responsive Design", "React", "Typescript"],
       github: "https://github.com/27Adityasahil/Portfolio",
-      demo: "https://saditya.me"
+      demo: "https://saditya-dev.vercel.app"
     },
     {
       id: 2,
